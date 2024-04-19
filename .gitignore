@@ -4,7 +4,6 @@
 *.exe
 *.dll
 *.class
-build/
 dist/
 target/
 
